@@ -1,0 +1,17 @@
+[{
+	"Route":"createIdentity",
+	"data":[{
+		"Username":"Ak99",
+		"ProfileImageURL":"www.image.com",
+		"ProfileBio":"Hi i am Ak",
+		"UserUUID":"951c04d578156a6a5394a204eec78b3b9a1501915a7c3f63068fca0d910d2aa1"}
+		]
+},
+{
+"Route":"updateUsername",
+"data":[{
+	"Username":"Ak1999",
+	"IdentityUUID":"134ceb28093a3c42ef21daa115814e4e08974586a94d3373e4753d67d9a874cd"}
+	]
+}]
+
